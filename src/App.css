@@ -138,6 +138,7 @@ input[type='number'] {
   font-size: 20px;
   line-height: 20px;
   padding: 2px 5px;
+  margin: 0 -5px;
   position: absolute;
   top: 50%;
   left: 0;
