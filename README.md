@@ -1,1 +1,1 @@
-A
+A basic project in ReactJS to keep track of our day-to-day expenses.
